@@ -1,8 +1,8 @@
 # Rutgers_Cafe_android
-I built an android app for Rutgers school cafe that sells donuts and coffee. 
-Users can choose the amount of donuts and the kind of donuts to order.
+I built an android app for Rutgers school cafe that sells donuts and coffee to manage orders. 
+Users can choose the amount of donuts and the kind of donuts.
 Users can also select toppings and sizes for their coffee. 
-Total price plus tax will show up in summary.
+Total price plus tax is displayed in summary.
 ![Capture](https://user-images.githubusercontent.com/32025682/190529750-65580fbe-6603-4a3b-87c8-7e68abce1532.PNG)
 ![Capture2](https://user-images.githubusercontent.com/32025682/190529754-1243923e-2486-41f5-bea1-ac34abdfbd80.PNG)
 ![Capture3](https://user-images.githubusercontent.com/32025682/190529755-3ddc3ac5-b5b7-48f5-ad6e-e266d1beea56.PNG)

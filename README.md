@@ -1,6 +1,6 @@
 # Rutgers_Cafe_android
 I built an android app for Rutgers school cafe to manage orders. 
-Users can choose their favourite donuts and customize their coffee orders. Total price plus tax is displayed in summary.
+Users can choose their favourite donuts and customize their coffee orders. A total price is calculated and displayed at the bottom.
 
 
 
